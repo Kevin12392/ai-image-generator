@@ -6,7 +6,7 @@ This is a simple image generator built with Node.js and Express that uses OpenAI
 Usage
 Rename the example.env file to .env.
 
-Generate an API KEY at OpenAI and add it to the .env file.
+Generate an API KEY at [OpenAI]([https://openai.com/api/] and add it to the .env file.
 
 Install the dependencies
 
